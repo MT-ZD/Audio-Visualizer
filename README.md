@@ -2,7 +2,7 @@
 
 A simple Svelte based audio visualizer using canvas and Audio Analyser.
 
-[Live previev](https://mt-zd.github.io/Audio-Visualizer/public/)
+[Live preview](https://mt-zd.github.io/Audio-Visualizer/public/)
 
 ## Requirements
 
